@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -41,14 +43,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MakeImage::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MakeImage-Debug-762e2f917e10ec98e5ea.json",
+					"jsonFile" : "target-MakeImage-Debug-6d4ae55ca69d84038b0f.json",
 					"name" : "MakeImage",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "MyStaticLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyStaticLib-Debug-4f864d54c37ab9a2e581.json",
+					"name" : "MyStaticLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "azsphere_ext_library::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-azsphere_ext_library-Debug-47bb7e0ff1ebf8a21e14.json",
+					"jsonFile" : "target-azsphere_ext_library-Debug-5d40438f5ea868357d29.json",
 					"name" : "azsphere_ext_library",
 					"projectIndex" : 0
 				}

@@ -23,7 +23,7 @@
 		[
 			"CMakeLists.txt",
 			"C:/Program Files (x86)/Microsoft Azure Sphere SDK/CMakeFiles/AzureSphereToolchain.cmake",
-			"C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake",
+			"out/ARM-Debug/CMakeFiles/3.21.0/CMakeSystem.cmake",
 			"C:/Program Files (x86)/Microsoft Azure Sphere SDK/CMakeFiles/AzureSphere.cmake"
 		],
 		"nodes" : 
@@ -34,13 +34,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 12,
+				"line" : 15,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 13,
+				"line" : 18,
 				"parent" : 0
 			},
 			{
@@ -56,7 +56,7 @@
 			{
 				"command" : 3,
 				"file" : 2,
-				"line" : 124,
+				"line" : 6,
 				"parent" : 4
 			},
 			{
@@ -78,7 +78,7 @@
 			{
 				"command" : 7,
 				"file" : 0,
-				"line" : 14,
+				"line" : 20,
 				"parent" : 0
 			},
 			{
@@ -246,6 +246,13 @@
 			]
 		}
 	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "MyStaticLib::@6890427a1f51a3e7e1df"
+		}
+	],
 	"id" : "azsphere_ext_library::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
@@ -258,6 +265,11 @@
 			{
 				"fragment" : "-nodefaultlibs -pie -Wl,--no-undefined -Wl,--gc-sections",
 				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "libMyStaticLib.a",
+				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,

@@ -1,0 +1,15 @@
+# ninja log v5
+1	80	6510997715909460	CMakeFiles/MyStaticLib.dir/Delay.c.obj	ad99780dc29c055b
+10	92	6510997716029136	CMakeFiles/azsphere_ext_library.dir/main.c.obj	380e6f22983ee8d9
+83	170	6510997716829015	libMyStaticLib.a	f522c3b1db0e6a08
+171	287	6510997717951145	azsphere_ext_library.out	59c8d2f897851d55
+289	374	6510997718861407	approotazsphere_ext_library/bin/app	3d184103cbfdd2e3
+289	374	6510997718861407	C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/approotazsphere_ext_library/bin/app	3d184103cbfdd2e3
+376	850	6510997723358917	azsphere_ext_library.imagepackage	b508b17591506882
+376	850	6510997723358917	C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/azsphere_ext_library.imagepackage	b508b17591506882
+2	89	6510998354382038	CMakeFiles/azsphere_ext_library.dir/main.c.obj	380e6f22983ee8d9
+92	212	6510998355559166	azsphere_ext_library.out	59c8d2f897851d55
+214	308	6510998356584965	approotazsphere_ext_library/bin/app	3d184103cbfdd2e3
+214	308	6510998356584965	C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/approotazsphere_ext_library/bin/app	3d184103cbfdd2e3
+311	804	6510998361432025	azsphere_ext_library.imagepackage	b508b17591506882
+311	804	6510998361432025	C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/azsphere_ext_library.imagepackage	b508b17591506882

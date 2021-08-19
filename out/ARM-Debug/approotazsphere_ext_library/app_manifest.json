@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"Name":"azsphere_ext_library","ComponentId":"45d43449-b205-4a8b-9725-e50379081e8e","EntryPoint":"/bin/app","CmdArgs":[],"Capabilities":{"Gpio":[8],"AllowedApplicationConnections":[]},"ApplicationType":"Default","TargetApplicationRuntimeVersion":10}
