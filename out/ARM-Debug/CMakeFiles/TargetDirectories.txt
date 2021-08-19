@@ -1,0 +1,4 @@
+C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/CMakeFiles/azsphere_ext_library.dir
+C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/CMakeFiles/MakeImage.dir
+C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/CMakeFiles/edit_cache.dir
+C:/Users/AdamBaumgartner/Documents/GitHub/azsphere_ext_library/out/ARM-Debug/CMakeFiles/rebuild_cache.dir
